@@ -64,7 +64,7 @@ git push
 ```
 
 ## Step 5:
-Add your "secret STAT 315 ID" to the readme file.
+Add your "secret STAT 315 147" to the readme file.
 
 ![readme](img/readme.png)
 
